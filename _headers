@@ -1,0 +1,11 @@
+# 允许所有域的请求，适用于开放的接口
+/*
+  Access-Control-Allow-Origin: *
+
+
+# 允许跨域请求时携带凭证（如 Cookie）
+/*
+  Access-Control-Allow-Credentials: true
+
+/*
+  Access-Control-Allow-Headers: *
